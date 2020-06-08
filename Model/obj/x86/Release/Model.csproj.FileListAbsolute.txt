@@ -1,0 +1,48 @@
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\bin\Release\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\bin\Release\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\obj\x86\Release\Model.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\obj\x86\Release\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\Model\obj\x86\Release\Model.pdb
+D:\C# project\Company_09011PM\EXCEL2MS\Model\bin\Release\Model.dll
+D:\C# project\Company_09011PM\EXCEL2MS\Model\bin\Release\Model.pdb
+D:\C# project\Company_09011PM\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+D:\C# project\Company_09011PM\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+D:\C# project\Company_09011PM\EXCEL2MS\Model\obj\x86\Release\Model.dll
+D:\C# project\Company_09011PM\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\bin\Release\Model.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\bin\Release\Model.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\obj\x86\Release\Model.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\bin\Release\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\bin\Release\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Release\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\bin\Release\Model.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\bin\Release\Model.pdb
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\obj\x86\Release\Model.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\bin\Release\Model.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\bin\Release\Model.pdb
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\obj\x86\Release\Model.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\bin\Release\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\bin\Release\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Release\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\bin\Release\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\bin\Release\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.pdb

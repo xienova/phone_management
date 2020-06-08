@@ -1,0 +1,70 @@
+G:\qev\VS project\PhoneManage\Model\obj\x86\Debug\Model.Properties.Resources.resources
+G:\qev\VS project\PhoneManage\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+G:\qev\VS project\PhoneManage\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+G:\qev\VS project\PhoneManage\Model\bin\Debug\Model.dll
+G:\qev\VS project\PhoneManage\Model\bin\Debug\Model.pdb
+G:\qev\VS project\PhoneManage\Model\obj\x86\Debug\Model.dll
+G:\qev\VS project\PhoneManage\Model\obj\x86\Debug\Model.pdb
+D:\Project C#\PhoneManage\Model\bin\Debug\Model.dll
+D:\Project C#\PhoneManage\Model\bin\Debug\Model.pdb
+D:\Project C#\PhoneManage\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Project C#\PhoneManage\Model\obj\x86\Debug\Model.Properties.Resources.resources
+D:\Project C#\PhoneManage\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+D:\Project C#\PhoneManage\Model\obj\x86\Debug\Model.dll
+D:\Project C#\PhoneManage\Model\obj\x86\Debug\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\bin\Debug\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\bin\Debug\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\obj\x86\Debug\Model.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\obj\x86\Debug\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\Model\obj\x86\Debug\Model.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\bin\Debug\Model.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\bin\Debug\Model.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\Model\obj\x86\Debug\Model.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\obj\x86\Debug\Model.Properties.Resources.resources
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\obj\x86\Debug\Model.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\Model\obj\x86\Debug\Model.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\bin\Debug\Model.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\bin\Debug\Model.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\Model\obj\x86\Debug\Model.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\bin\Debug\Model.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\bin\Debug\Model.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\Model\obj\x86\Debug\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\bin\Debug\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\bin\Debug\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\Model\obj\x86\Debug\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\bin\Debug\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\bin\Debug\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\Model\obj\x86\Debug\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\bin\Debug\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\bin\Debug\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Debug\Model.Properties.Resources.resources
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Debug\Model.csproj.GenerateResource.Cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Debug\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Debug\Model.pdb

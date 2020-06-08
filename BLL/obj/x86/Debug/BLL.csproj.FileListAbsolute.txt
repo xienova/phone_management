@@ -1,0 +1,431 @@
+G:\qev\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+G:\qev\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\BLL.dll
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\BLL.pdb
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\DAL.dll
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\Model.dll
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\DAL.pdb
+G:\qev\VS project\PhoneManage\BLL\bin\Debug\Model.pdb
+G:\qev\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\qev\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.dll
+G:\qev\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.pdb
+D:\Project C#\PhoneManage\BLL\bin\Debug\BLL.dll
+D:\Project C#\PhoneManage\BLL\bin\Debug\BLL.pdb
+D:\Project C#\PhoneManage\BLL\bin\Debug\DAL.dll
+D:\Project C#\PhoneManage\BLL\bin\Debug\Model.dll
+D:\Project C#\PhoneManage\BLL\bin\Debug\DAL.pdb
+D:\Project C#\PhoneManage\BLL\bin\Debug\Model.pdb
+D:\Project C#\PhoneManage\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Project C#\PhoneManage\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\Project C#\PhoneManage\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\Project C#\PhoneManage\BLL\obj\x86\Debug\BLL.dll
+D:\Project C#\PhoneManage\BLL\obj\x86\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\DAL.dll
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\Model.dll
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\DAL.pdb
+G:\qev 勿动\VS project\PhoneManage\BLL\bin\Debug\Model.pdb
+G:\qev 勿动\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\qev 勿动\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage\BLL\obj\x86\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\DAL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\DAL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\bin\Debug\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\BLL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\DAL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\DAL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\bin\Debug\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\MYSQL_IO\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\BLL.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\DAL.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\Model.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\bin\Debug\Model.pdb
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+F:\HISENSE\邮箱下载\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\BLL.dll
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\BLL.pdb
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\DAL.dll
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\Model.dll
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\DAL.pdb
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\bin\Debug\Model.pdb
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.dll
+E:\qev\VS project\EXCEL2MS_0807_AM\BLL\obj\x86\Debug\BLL.pdb
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\BLL.dll
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\BLL.pdb
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\DAL.dll
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\Model.dll
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\DAL.pdb
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\bin\Debug\Model.pdb
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.dll
+E:\qev\VS project\EXCEL2MS_0822_AM\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK\EXCEL2MS_0823_AM\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0804AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0824PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825AM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\Company_\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\Company_\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\Company_0904PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\xie_0307_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\xie_0312_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\BLL.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\DAL.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\Model.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\bin\Debug\Model.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\BLL.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\DAL.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\Model.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\bin\Debug\Model.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\bin\Debug\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0731\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\bin\Debug\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\BLL.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\DAL.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\MySql.Data.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\bin\Debug\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\BLL.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\BLL.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\DAL.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\MySql.Data.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\DAL.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\bin\Debug\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.ResolveComReference.cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.Properties.Resources.resources
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.csproj.GenerateResource.Cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Debug\BLL.pdb

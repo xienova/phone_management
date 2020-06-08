@@ -1,0 +1,338 @@
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\bin\Release\DAL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\bin\Release\DAL.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\bin\Release\Model.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\bin\Release\Model.pdb
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\obj\x86\Release\DAL.dll
+G:\qev 勿动\VS project\PhoneManage_MYSQL_月度输出版\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\phone_manage_OK_0825_night\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\phone_manage_OK_0828PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_0903\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_0903\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_0903\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_0903\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_0903\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_0903\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_0903\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_0903\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_0903\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_0904PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_09011PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_09015AM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_1009_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_1011_hand\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_1011_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Companyx_1102_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\XIE_1103_PM\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\Company_0305_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\backups\xie_0307_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\company_0312_TCP_night\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\xie_0313_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0320_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0321_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0322_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0402_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0611_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0814_TCP\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0905_TCP_V1未加写号信息版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_1019_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_1011_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_1017_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_1026_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.dll
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\DAL.pdb
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.dll
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\bin\Release\Model.pdb
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+D:\C# project\CMP_0417_TCP_V1两表合一版\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\MySql.Data.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\Model.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\DAL.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\DAL.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\Model.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\bin\Release\Model.pdb
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+F:\xie_硬件测试组工作\能力提升\USE_Biaotie\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0801\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\xie_硬件测试组工作\能力提升\USE_Biaotie_0805\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\bin\Release\MySql.Data.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\a_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\bin\Release\MySql.Data.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\B_办公用\xie_硬件测试组工作\A_小组考评\职称评价\2019_能力提升\beifen\USE_Biaotie_wangpeng取消权限\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\bin\Release\MySql.Data.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\A_自动化测试组\能力提升\样机标贴\USE_Biaotie_wangpeng取消权限_0108\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\bin\Release\DAL.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\bin\Release\DAL.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\bin\Release\Model.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\bin\Release\MySql.Data.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\bin\Release\Model.pdb
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\obj\x86\Release\DAL.csprojResolveAssemblyReference.cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\obj\x86\Release\DAL.Properties.Resources.resources
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\obj\x86\Release\DAL.csproj.GenerateResource.Cache
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\obj\x86\Release\DAL.dll
+E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\DAL\obj\x86\Release\DAL.pdb
