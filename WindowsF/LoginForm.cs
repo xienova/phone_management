@@ -191,6 +191,11 @@ namespace PhoneSystem
             Application.Exit();
         }
 
+        private void cmbName_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
 
         // 测试登陆界面的 Sql server 相关信息
         //private void btn1_Click(object sender, EventArgs e)

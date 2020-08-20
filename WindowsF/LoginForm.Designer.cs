@@ -100,14 +100,11 @@
             this.cmbName.Items.AddRange(new object[] {
             "李加将",
             "蒋俊",
-            "陈玉喜",
             "高俊",
-            "高小洋",
-            "韩伟杰",
-            "计南南",
             "李昊",
             "李方辉",
             "李立国",
+            "米琛",
             "苏志波",
             "苏源",
             "孙永萍",
@@ -115,22 +112,19 @@
             "王鹏",
             "解春辉",
             "姚丽华",
+            "闫亚辉",
             "易成强",
             "尹衍腾",
-            "朱建丽",
-            "张超",
             "张训华",
             "李廷吉",
             "隋尧尧",
             "时忠玉",
             "郭芬芬",
-            "毕文青",
             "苏书江",
             "刘岩",
             "尤艳",
             "李娟",
             "王宗坤",
-            "陈呈军",
             "战旭宁",
             "高瑞",
             "曹锐",
@@ -139,14 +133,12 @@
             "苏秀华",
             "邢慧强",
             "谢明媚",
-            "刘永华",
-            "李林强",
-            "周朱栋",
-            "陈雪"});
+            "李林强"});
             this.cmbName.Location = new System.Drawing.Point(210, 267);
             this.cmbName.Name = "cmbName";
             this.cmbName.Size = new System.Drawing.Size(100, 24);
             this.cmbName.TabIndex = 6;
+            this.cmbName.SelectedIndexChanged += new System.EventHandler(this.cmbName_SelectedIndexChanged);
             // 
             // label1
             // 

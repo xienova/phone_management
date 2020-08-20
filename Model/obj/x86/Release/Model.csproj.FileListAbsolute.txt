@@ -46,3 +46,9 @@ E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权�
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.dll
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\Model\obj\x86\Release\Model.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\bin\Release\Model.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\bin\Release\Model.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\obj\x86\Release\Model.Properties.Resources.resources
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\obj\x86\Release\Model.csproj.GenerateResource.Cache
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\obj\x86\Release\Model.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\Model\obj\x86\Release\Model.pdb

@@ -471,3 +471,16 @@ E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权�
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Release\BLL.csproj.GenerateResource.Cache
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Release\BLL.dll
 E:\A_自动化测试组\测试工具\样机标贴\USE_Biaotie_wangpeng取消权限_0119\EXCEL2MS\BLL\obj\x86\Release\BLL.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\BLL.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\BLL.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\DAL.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\Model.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\MySql.Data.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\DAL.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\bin\Release\Model.pdb
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.csprojResolveAssemblyReference.cache
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.csproj.ResolveComReference.cache
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.Properties.Resources.resources
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.csproj.GenerateResource.Cache
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.dll
+E:\FINISHED\A能力提升_样机标贴\use_git\xie_biaotie\BLL\obj\x86\Release\BLL.pdb
