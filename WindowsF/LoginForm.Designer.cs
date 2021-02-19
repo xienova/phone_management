@@ -104,36 +104,36 @@
             "李昊",
             "李方辉",
             "李立国",
+            "梁飞跃",
             "米琛",
             "苏志波",
             "苏源",
             "孙永萍",
             "王磊",
             "王鹏",
+            "徐硕",
             "解春辉",
-            "姚丽华",
             "闫亚辉",
             "易成强",
             "尹衍腾",
             "张训华",
-            "李廷吉",
-            "隋尧尧",
-            "时忠玉",
-            "郭芬芬",
-            "苏书江",
-            "刘岩",
+            "王鹤霖",
             "尤艳",
             "李娟",
             "王宗坤",
             "战旭宁",
-            "高瑞",
             "曹锐",
-            "倪红",
             "杜秀娟",
             "苏秀华",
             "邢慧强",
             "谢明媚",
-            "李林强"});
+            "马维龙",
+            "刘岩",
+            "李廷吉",
+            "隋尧尧",
+            "时忠玉",
+            "郭芬芬",
+            "苏书江"});
             this.cmbName.Location = new System.Drawing.Point(210, 267);
             this.cmbName.Name = "cmbName";
             this.cmbName.Size = new System.Drawing.Size(100, 24);
@@ -158,7 +158,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(71, 12);
             this.label2.TabIndex = 9;
-            this.label2.Text = "V2019.10.21";
+            this.label2.Text = "V2020.11.24";
             // 
             // pictureBox1
             // 

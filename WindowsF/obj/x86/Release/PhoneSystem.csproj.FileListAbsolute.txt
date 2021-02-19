@@ -1368,3 +1368,7 @@ E:\FINISHED\A创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF
 E:\FINISHED\A创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\PhoneSystem.UserBorrowInfoForm.resources
 E:\FINISHED\A创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\PhoneSystem.UserReturnInfoForm.resources
 E:\FINISHED\A创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\PhoneSystem.csproj.GenerateResource.Cache
+E:\FINISHED\Z_创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\bin\Release\PhoneSystem.exe.config
+E:\FINISHED\Z_创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\Interop.WorkspaceTask.dll
+E:\FINISHED\Z_创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\PhoneSystem.csproj.ResolveComReference.cache
+E:\FINISHED\Z_创新成果_样机管理系统\use_git\yangjiguanlixitong\WindowsF\obj\x86\Release\PhoneSystem.exe
